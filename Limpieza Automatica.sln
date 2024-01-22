@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Limpieza os390", "Limpieza os390.csproj", "{C7B885E9-DC8D-441E-8208-266D96FDCE60}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Limpieza Automatica", "Limpieza Automatica.csproj", "{C7B885E9-DC8D-441E-8208-266D96FDCE60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
